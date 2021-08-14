@@ -1,0 +1,9 @@
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\bin\Debug\WinformRichTextbox.exe.config
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\bin\Debug\WinformRichTextbox.exe
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\bin\Debug\WinformRichTextbox.pdb
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\GvS.Controls.FrmToolbar.resources
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\GvS.Controls.HtmlTextbox.resources
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\WinformRichTextbox.Properties.Resources.resources
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\WinformRichTextbox.csproj.GenerateResource.Cache
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\WinformRichTextbox.exe
+c:\users\cefalo\documents\visual studio 2015\Projects\WinformRichTextbox\WinformRichTextbox\obj\Debug\WinformRichTextbox.pdb

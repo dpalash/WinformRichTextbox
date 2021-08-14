@@ -1,0 +1,11 @@
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\bin\Release\Installation.htm
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\bin\Release\GvS.Controls.HtmlTextbox.dll
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\bin\Release\GvS.Controls.HtmlTextbox.pdb
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.HtmlTextbox.csproj.ResolveComReference.cache
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.FrmToolbar.resources
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.HtmlTextbox.resources
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.Properties.Resources.resources
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.HtmlTextbox.csproj.GenerateResource.Cache
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.HtmlTextbox.dll
+C:\Users\Gert\Documents\Visual Studio 2008\Projects\GvS.Controls.HtmlTextbox\GvS.Controls.HtmlTextbox\obj\Release\GvS.Controls.HtmlTextbox.pdb
